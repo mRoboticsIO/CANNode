@@ -1,0 +1,37 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C15        0402A              285.433mil    580.709mil    285.433mil    580.709mil    285.433mil    597.441mil  T         90.00 100n 16V X7R   
+C11        0402A              600.394mil     157.48mil    600.394mil     157.48mil    583.661mil     157.48mil  T        180.00 100n 16V X7R   
+C12        0402A              324.803mil    580.709mil    324.803mil    580.709mil    324.803mil    597.441mil  T         90.00 2u2 6.3V X5R   
+C13        0402A              659.449mil    175.197mil    659.449mil    175.197mil    659.449mil    191.929mil  T         90.00 2u2 6.3V X5R   
+C14        0402A               236.22mil    305.118mil     236.22mil    305.118mil    219.488mil    305.118mil  T        180.00 100n 16V X7R   
+C16        0402A              738.189mil    486.221mil    738.189mil    486.221mil    738.189mil    469.488mil  T        270.00 100n 16V X7R   
+C18        0402A               236.22mil    344.488mil     236.22mil    344.488mil    219.488mil    344.488mil  T        180.00 100n 16V X7R   
+C20        0402A              423.228mil     68.898mil    423.228mil     68.898mil    423.228mil     52.165mil  T        270.00 2u2 6.3V X5R   
+C50        0603A              246.063mil    757.874mil    246.063mil    757.874mil    246.063mil    729.331mil  T         90.00 10u 10V X5R    
+C51        0603A              462.598mil    757.874mil    462.598mil    757.874mil    462.598mil    729.331mil  T         90.00 100n 16V X7R   
+C52        0603A              515.748mil    757.874mil    515.748mil    757.874mil    515.748mil    729.331mil  T         90.00 10u 6.3V X5R   
+C150       0603A              472.441mil     68.898mil    472.441mil     68.898mil    472.441mil     40.354mil  T         90.00 10u 10V X5R    
+C151       0603A              688.976mil     68.898mil    688.976mil     68.898mil    688.976mil     40.354mil  T         90.00 100n 16V X7R   
+C152       0603A              738.189mil     68.898mil    738.189mil     68.898mil    738.189mil     40.354mil  T         90.00 10u 6.3V X5R   
+CAN1       SM04B-GHS-TB       121.063mil    183.071mil    190.945mil    183.071mil    179.134mil     256.89mil  T         90.00 SM04B-GHS-TB   
+CAN2       SM04B-GHS-TB       121.063mil    643.701mil    190.945mil    643.701mil    179.134mil     717.52mil  T         90.00 SM04B-GHS-TB   
+F20        0805A RST FUSE      118.11mil    413.386mil     118.11mil    413.386mil    152.559mil    413.386mil  T        360.00 250mA RST FUSE         
+GPS/I2C    SM06B-GHS-TB       867.126mil    232.284mil    797.244mil    232.284mil    809.055mil    109.252mil  T        270.00 SM06B-GHS-TB   
+I2C        SM04B-GHS-TB       867.126mil    643.701mil    797.244mil    643.701mil    809.055mil    569.882mil  T        270.00 SM04B-GHS-TB   
+LED1       0603A              444.882mil     157.48mil    444.882mil     157.48mil    416.339mil     157.48mil  T        360.00 BLUE LED       
+LED2       0603A              600.394mil    728.346mil    600.394mil    728.346mil    628.937mil    728.346mil  T        180.00 RED LED        
+Q1         CERALOCK_RES        236.22mil    444.882mil     236.22mil    444.882mil     236.22mil    492.122mil  T        270.00 CSTCE8M00G55-R0
+R1         0402A              423.228mil    653.543mil    423.228mil    653.543mil    439.961mil    653.543mil  T          0.00 2k 1%          
+R2         0402A              423.228mil     618.11mil    423.228mil     618.11mil    406.496mil     618.11mil  T        180.00 3k3 1%         
+R3         0402A              728.346mil    620.079mil    728.346mil    620.079mil    711.614mil    620.079mil  T        180.00 2k2 1%         
+R4         0402A              728.346mil    669.291mil    728.346mil    669.291mil    711.614mil    669.291mil  T        180.00 2k2 1%         
+R12        0402A              531.496mil     157.48mil    531.496mil     157.48mil    548.228mil     157.48mil  T        360.00 2.2k 1%        
+R13        0603A              600.394mil    787.402mil    600.394mil    787.402mil    628.937mil    787.402mil  T        180.00 4.7k 1%        
+R18        0402A              472.441mil    635.827mil    472.441mil    635.827mil    472.441mil    619.095mil  T        270.00 10k 1%         
+R20        0603A              246.063mil    183.071mil    246.063mil    183.071mil    246.063mil    154.528mil  T         90.00 120R 1%        
+U1         LQFP48_N           501.969mil    387.795mil    501.969mil    387.795mil     342.52mil    496.063mil  T          0.00 STM32F103CBT6  
+U2         8DFN_3x3           324.803mil     68.898mil    324.803mil     68.898mil    383.858mil     30.512mil  T         90.00 TJA1051TK/3    
+U5         SOT23-5            354.331mil    757.874mil    354.331mil    757.874mil    312.008mil    795.276mil  T        270.00 LP5907-Q1      
+U15        SOT23-5            580.709mil     68.898mil    580.709mil     68.898mil    538.386mil    106.299mil  T        270.00 LP5907-Q1      
+
